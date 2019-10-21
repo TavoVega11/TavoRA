@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="download2" size="6.000000 3.360000" />
+    <ImageTarget name="2020-ford-mustang-shelby-gt500-reveal-103-1551197283" size="6.000000 3.662500" />
+    <ImageTarget name="download1" size="6.000000 3.612457" />
+    <ImageTarget name="images" size="6.000000 3.360000" />
+    <ImageTarget name="download" size="6.000000 3.154839" />
+    <ImageTarget name="ford-mustang-shelby-gt500_2" size="6.000000 3.974026" />
+    <ImageTarget name="barn-1031613_960_720" size="6.000000 3.225000" />
+    <ImageTarget name="catedra-vista-toledo-noche" size="6.000000 3.996094" />
+    <ImageTarget name="noo" size="6.000000 4.012500" />
+    <ImageTarget name="Mustang" size="6.000000 4.462500" />
+  </Tracking>
+</QCARConfig>
